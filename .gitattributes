@@ -1,0 +1,4 @@
+data/ecoinvent/electricity.gpkg filter=lfs diff=lfs merge=lfs -text
+data/egrid/egrid2018_data_v2.csv filter=lfs diff=lfs merge=lfs -text
+data/eia/NercRegions_201907.shp filter=lfs diff=lfs merge=lfs -text
+data/HILFD/NERC_Regions.shp filter=lfs diff=lfs merge=lfs -text
