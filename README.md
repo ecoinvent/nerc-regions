@@ -20,6 +20,8 @@ The notebook [Construct NERC regions from cutouts and Natural Earth](https://git
 
 <img src="img/result.png">
 
+Shapes in the Great Lakes may look a bit strange, but this is because our [Natural Earth Admin 1 input data](https://www.naturalearthdata.com/downloads/10m-cultural-vectors/10m-admin-1-states-provinces/) includes large lakes.
+
 ## License
 
 The code is licensed BSD 3-clause, the data is licensed CC0.
