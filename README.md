@@ -18,6 +18,8 @@ The notebook [Partitioning SPP](https://github.com/cmutel/nerc-regions/blob/mast
 
 The notebook [Construct NERC regions from cutouts and Natural Earth](https://github.com/cmutel/nerc-regions/blob/master/Construct%20NERC%20regions%20from%20cutouts%20and%20Natural%20Earth.ipynb) shows how NERC regions were built up using various GIS "cutout" geometries and [shapely](https://shapely.readthedocs.io/en/latest/manual.html) GIS operations.
 
+<img src="img/result.png">
+
 ## License
 
 The code is licensed BSD 3-clause, the data is licensed CC0.
